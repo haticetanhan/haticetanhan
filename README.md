@@ -15,7 +15,7 @@ My development journey is actively ongoing, and I continue to grow through hands
 - JavaScript and backend basics
 
 ### Technologies
-HTML5 • CSS3 • JavaScript (foundational) • Python (foundational) • SQL (foundational)
+HTML5 • CSS3 • JavaScript (foundational) • Python (foundational) • SQL (foundational) • C# 
 
 ### Mindset
 Strong foundations enable confident and sustainable growth.
