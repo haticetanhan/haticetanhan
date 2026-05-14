@@ -12,7 +12,7 @@ My development journey is actively ongoing, and I continue to grow through hands
 - HTML & CSS fundamentals  
 - Clean and structured code practices  
 - Git & GitHub workflows  
-- Progressing toward advanced topics (JavaScript and backend basics)
+- JavaScript and backend basics
 
 ### Technologies
 HTML5 • CSS3 • JavaScript (foundational) • Python (foundational) • SQL (foundational)
