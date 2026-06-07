@@ -19,9 +19,9 @@ Technologies
 
 * HTML5
 * CSS3
-* JavaScript (Learning)
-* Python (Learning)
-* SQL (Learning)
+* JavaScript 
+* Python 
+* SQL 
 * C#
 * Git & GitHub
 
