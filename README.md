@@ -1,40 +1,49 @@
-Hi, I’m Hatice 👋
+# Hatice Tanhan
 
-I’m a software development student focused on building systems, solving problems, and creating strong technical foundations.
+** Legal Technology & Government Technology
 
-I believe that sustainable growth comes from understanding how things work beneath the surface. Rather than rushing through technologies, I focus on mastering fundamentals, developing structured thinking, and building projects that strengthen both technical and problem-solving skills.
+---
 
-My GitHub serves as a living record of my learning journey, experiments, project development, and system design exploration.
+## About Me
 
-Current Focus
+I'm a software developer with an unconventional but
+powerful background — combining formal education in
+**public administration**, **justice & legal systems**,
+and **computer programming** to build technology
+solutions for the legal and civic sectors.
 
-* CS50x and computer science fundamentals
-* HTML, CSS, and JavaScript
-* C# and SQL
-* Git & GitHub workflows
-* Software design and problem-solving
-* Building real-world projects and documenting progress
+Before writing code, I spent years understanding how
+legal processes, government operations, and public
+institutions actually work from the inside. Now I bring
+that domain knowledge into software — building systems
+that solve real problems in LegalTech and GovTech.
 
-Technologies
+I believe the most valuable developers are those who
+understand the problem deeply before touching the keyboard.
 
-* HTML5
-* CSS3
-* JavaScript 
-* Python 
-* SQL 
-* C#
-* Git & GitHub
+---
 
-What You’ll Find Here
+## Focus Areas
 
-* Learning notes and technical documentation
-* Project development journals
-* System design explorations
-* Practice projects and experiments
-* Continuous progress and growth
+⚖️ **Legal Technology** — Court systems, case management,
+legal document processing, justice data systems
 
-Mindset
+🏛️ **Government Technology** — Civic data platforms,
+public spending analysis, government service automation
 
-I value consistency over speed, understanding over memorization, and long-term growth over quick results.
+📊 **Data Systems** — Building pipelines and dashboards
+for legal and public sector data
 
-Every project is an opportunity to learn, improve, and build something better than before.
+
+---
+
+## Goals
+
+Become a **Python Backend Developer** specialized in
+Legal and Government technology systems, and contribute
+to modernizing public infrastructure through software.
+
+---
+
+*"The most powerful combination in tech is deep domain
+knowledge plus strong engineering skills."*
