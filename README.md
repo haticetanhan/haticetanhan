@@ -1,49 +1,48 @@
 # Hatice Tanhan
 
-** Legal Technology & Government Technology
+## Legal Technology & Government Technology
 
 ---
 
 ## About Me
 
-I'm a software developer with an unconventional but
-powerful background — combining formal education in
-**public administration**, **justice & legal systems**,
-and **computer programming** to build technology
-solutions for the legal and civic sectors.
+I combine a background in public administration and legal systems
+with software engineering to build technology solutions for the
+legal and civic sectors.
 
-Before writing code, I spent years understanding how
-legal processes, government operations, and public
-institutions actually work from the inside. Now I bring
-that domain knowledge into software — building systems
-that solve real problems in LegalTech and GovTech.
-
-I believe the most valuable developers are those who
-understand the problem deeply before touching the keyboard.
+Before writing code, I spent years understanding how legal processes,
+government operations, and public institutions actually work from
+the inside. I bring that domain knowledge into software — building
+systems that solve real problems in LegalTech and GovTech.
 
 ---
 
 ## Focus Areas
 
-⚖️ **Legal Technology** — Court systems, case management,
-legal document processing, justice data systems
+⚖️ **Legal Technology** — Court systems, case management, legal
+document processing, justice data systems
 
-🏛️ **Government Technology** — Civic data platforms,
-public spending analysis, government service automation
+🏛️ **Government Technology** — Civic data platforms, public spending
+analysis, government service automation
 
-📊 **Data Systems** — Building pipelines and dashboards
-for legal and public sector data
+📊 **Data Systems** — Building pipelines and dashboards for legal
+and public sector data
 
+---
+
+## Tech Stack
+
+Python · SQL · C · Git
 
 ---
 
 ## Goals
 
-Become a **Python Backend Developer** specialized in
-Legal and Government technology systems, and contribute
-to modernizing public infrastructure through software.
+Become a Python Backend Developer specialized in Legal and Government
+technology systems, and contribute to modernizing public
+infrastructure through software.
 
 ---
 
-*"The most powerful combination in tech is deep domain
-knowledge plus strong engineering skills."*
+*"The most powerful combination in tech is deep domain knowledge
+plus strong engineering skills."*
